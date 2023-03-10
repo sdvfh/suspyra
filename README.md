@@ -1,2 +1,2 @@
-# suspyro
-Data handler for Brazil's Universal Health System.
+# SUSPyro
+Big Data handler for Brazil's Universal Health System.
